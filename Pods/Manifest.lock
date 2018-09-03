@@ -1,0 +1,16 @@
+PODS:
+  - Expression (0.12.9)
+
+DEPENDENCIES:
+  - Expression
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expression
+
+SPEC CHECKSUMS:
+  Expression: 009720cde3259d5e39dc18f1d32504fa136b4a09
+
+PODFILE CHECKSUM: 5fa58f742a5c4f294729326582f9f433145d385e
+
+COCOAPODS: 1.5.2
